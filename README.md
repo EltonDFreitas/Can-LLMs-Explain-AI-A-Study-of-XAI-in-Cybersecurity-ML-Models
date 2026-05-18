@@ -57,11 +57,11 @@ In a human-centered evaluation with 38 participants:
 .
 ├── datasets/
 │   ├── dataset1/
-│   │   └── intrusion_detection_logs.csv
+│   │   └── Network_logs.csv
 │   ├── dataset2/
-│   │   └── cybersecurity_intrusion_detection.csv
+│   │   └── cybersecurity_intrusion_data.csv
 │   └── dataset3/
-│       └── nsl_kdd.csv
+│       └── KDDTrain+20.txt
 │
 ├── notebooks/
 │   ├── dataset1_experiments.ipynb
