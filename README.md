@@ -61,7 +61,7 @@ In a human-centered evaluation with 38 participants:
 │   ├── dataset2/
 │   │   └── cybersecurity_intrusion_data.csv
 │   └── dataset3/
-│       └── KDDTrain+20.txt
+│       └── KDDTrain+20Percent.txt
 │
 ├── notebooks/
 │   ├── dataset1_experiments.ipynb
